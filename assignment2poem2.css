@@ -1,0 +1,33 @@
+body
+{
+  color:white;
+  background-color: #f7e7c6;
+}
+#title
+{
+  position:absolute;
+  background-color:#9556b8;
+  border-radius:10px;
+  color:white;
+  width:200px;
+  text-align: center;
+  left:calc(50% - 100px);
+  font-family: 'Vollkorn SC', serif;
+}
+
+#author
+{
+  color:white;
+}
+
+.paragraph
+{
+  background-color:#dea1fb;
+  position:relative;
+  width:250px;
+  left:calc(50% - 125px);
+  top:300px;
+  text-align: center;
+  border-radius: 10px;
+  font-style: italic;
+}

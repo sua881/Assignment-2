@@ -1,0 +1,26 @@
+
+body{
+  background: purple;
+  color:#e4bbfa;
+  }
+  #by{
+color:white;
+}
+
+.title{
+  text-align:center;
+}
+
+.paragraph{
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+  font-style: oblique;
+  margin:20px;
+  border:solid #f496e5 8pt;
+  padding: 20px;
+  text-align: center;
+  width:200px;
+  left:calc(50% - 150px);
+  color:white;
+}

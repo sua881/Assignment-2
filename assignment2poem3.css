@@ -1,0 +1,65 @@
+body{
+  background-color: #bce1fb;
+  margin:20px;
+  border:solid white 10pt;
+  padding: 20px;
+}
+#author{
+  font-style: italic;
+  color: #36e7ff;
+}
+
+.title{
+  font-size: 30px;
+  background-color: #149ff7;
+  color:white;
+  border-radius: 400px;
+  text-align: center;
+  font-family:'Ultra', serif;
+}
+
+.paragraph{
+  color: white;
+  font-family: helvetica;
+}
+
+#p1{
+  position:relative;
+  background-color: #7c9fe9;
+  width:300px;
+  border-radius: 150px;
+  text-align: center;
+  left:10px;
+
+}
+
+#p2{
+  position:relative;
+  background-color: #5880d2;
+  width:300px;
+  border-radius: 150px;
+  left: calc(50% - 350px);
+  text-align: center;
+
+
+}
+
+#p3{
+  position:relative;
+  background-color: #3c6bcd;
+  width:300px;
+  border-radius: 150px;
+  left: calc(50% - 10px);
+  text-align: center;
+
+}
+
+#p4{
+  position:relative;
+  background-color: #2854b0;
+  width:300px;
+  border-radius: 150px;
+  left: calc(50% + 350px);
+  text-align: center;
+
+}

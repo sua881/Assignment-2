@@ -1,0 +1,27 @@
+body{
+  margin:20px;
+  border:solid #f496a9 10pt;
+  padding: 20px;
+  background-color: pink;
+  color:white;
+  font-family: cursive;
+}
+
+#title1{
+  margin:20px;
+  border:solid #f496a9 8pt;
+  padding: 20px;
+  text-align: center;
+}
+
+#title2{
+  margin:20px;
+  border:solid #f496a9 6pt;
+  padding: 20px;
+}
+
+#title3{
+  margin:20px;
+  border:solid #f496a9 4pt;
+  padding: 20px;
+}

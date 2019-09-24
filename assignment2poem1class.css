@@ -1,0 +1,32 @@
+
+body
+{
+  background-color:#bfe7f6;
+  font-family:'Mansalva', cursive;
+  font-size: 30px;
+  letter-spacing:1px;
+  color:#0e1642;
+}
+
+.container
+{
+  margin:20px;
+  border:solid white 3pt;
+  padding: 20px;
+}
+
+.paragraph
+{
+  background-color: #57c1ee;
+  position: relative;
+  font-size: 20px;
+  color: white;
+  height:95px
+  left:60px;
+  width:360px;
+}
+
+#author
+{
+  background-color: white;
+}
